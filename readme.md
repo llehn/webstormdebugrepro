@@ -1,0 +1,1 @@
+breakpoint in root.module.ts line 26 doesn't work, but console output is there.
