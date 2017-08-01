@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Debug Dev" type="JavascriptDebugType" factoryName="JavaScript Debug" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:3000/">
+    <mapping url="http://localhost:3000" local-file="$PROJECT_DIR$/src" />
+    <mapping url="http://localhost:3000/app" local-file="$PROJECT_DIR$/src/app" />
+    <mapping url="http://localhost:3000/node_modules" local-file="$PROJECT_DIR$/www/node_modules" />
+    <method />
+  </configuration>
+</component>
